@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_k19docusignh.K19HubAliasDocuSign</id>
+        <multiple_connections>false</multiple_connections>
+        <name>K19HubAliasDocuSign</name>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 22:49:46</sys_created_on>
+        <sys_id>2c7a7f796c5533007f44ddb16fbbf52e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_k19docusignh.K19HubAliasDocuSign</sys_name>
+        <sys_package display_value="K19DocuSignHubSpoke" source="x_snc_k19docusignh">b1b7fb396c5533007f44ddb16fbbf557</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="K19DocuSignHubSpoke">b1b7fb396c5533007f44ddb16fbbf557</sys_scope>
+        <sys_update_name>sys_alias_2c7a7f796c5533007f44ddb16fbbf52e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-09 22:49:46</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>

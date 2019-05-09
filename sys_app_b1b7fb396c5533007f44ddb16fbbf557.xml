@@ -2,12 +2,12 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>false</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
         <license_category>none</license_category>
         <license_model>none</license_model>
-        <logo/>
+        <logo>2bd837796c5533007f44ddb16fbbf5b9</logo>
         <menu/>
         <name>K19DocuSignHubSpoke</name>
         <private>false</private>
@@ -24,9 +24,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-09 22:37:27</sys_created_on>
         <sys_id>b1b7fb396c5533007f44ddb16fbbf557</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-09 22:37:27</sys_updated_on>
+        <sys_updated_on>2019-05-09 22:42:29</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
@@ -34,4 +34,42 @@
         <vendor_prefix/>
         <version>1.0.0</version>
     </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>734003</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>logo</file_name>
+        <image_height>50</image_height>
+        <image_width>50</image_width>
+        <size_bytes>2014</size_bytes>
+        <size_compressed>2037</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 22:42:28</sys_created_on>
+        <sys_id>2bd837796c5533007f44ddb16fbbf5b9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-05-09 22:42:30</sys_updated_on>
+        <table_name>ZZ_YYsys_app</table_name>
+        <table_sys_id>b1b7fb396c5533007f44ddb16fbbf557</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="logo" sys_id="2bd837796c5533007f44ddb16fbbf5b9">2bd837796c5533007f44ddb16fbbf5b9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 22:42:28</sys_created_on>
+        <sys_id>6bd837796c5533007f44ddb16fbbf5b9</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>2704</length>
+        <position>1</position>
+        <sys_attachment display_value="logo" sys_id="2bd837796c5533007f44ddb16fbbf5b9">2bd837796c5533007f44ddb16fbbf5b9</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-09 22:42:28</sys_created_on>
+        <sys_id>ebd837796c5533007f44ddb16fbbf5b9</sys_id>
+    </sys_attachment_doc>
 </record_update>
